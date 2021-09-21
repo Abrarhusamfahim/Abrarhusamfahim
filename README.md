@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Abrar Husam Fahim</h1>
-<h3 align="center">MERN Stack Developer</h3>
+### Hi there 👋, Hey, I am Professional Programmer
+#### MERN Stack Developer
+![MERN Stack Developer](https://github.com/Abrarhusamfahim/Abrarhusamfahim/blob/main/code.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarhusamfahim&label=Profile%20views&color=0e75b6&style=flat" alt="abrarhusamfahim" /> </p>
+Hello, This is Abrar Husam Fahim. I am a MERN stack developer in Bangladesh. I have 1year of experience. I am working as a Freelance Full Stack web developer.
 
-- 🔭 I’m currently working on [Programming Hero](https://abrarhusamfahim.github.io/Courses-website/)
 
-- ⚡ Fun fact **I think i am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abrar-fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-fahim" height="30" width="40" /></a>
-<a href="https://fb.com/abrar-husam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar-husam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abrar fahim's creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abrar fahim's creation" height="30" width="40" /></a>
-</p>
+Skills: REACT / JS / HTML / CSS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning Programming-Hero 
+- 💬 Ask me about HTML, CSS, BootStrap, JavaScript, React, Node. 
+- 📫 How to reach me: fahimjahin321@gmail.com 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarhusamfahim&show_icons=true&locale=en&layout=compact" alt="abrarhusamfahim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhusamfahim&" alt="abrarhusamfahim" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abrarhusamfahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Abrar-fahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abrar.fahim.321)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/abrarhusamfahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/abrar-fahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/_6uhlpXmT1wpQknmgN7IhQ)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrarhusamfahim)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrarhusamfahim&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abrarhusamfahim)  
+
+![Profile views](https://gpvc.arturio.dev/Abrarhusamfahim)  
