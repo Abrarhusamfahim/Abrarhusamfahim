@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey, I am Professional Programmer
 #### MERN Stack Developer
-![MERN Stack Developer](https://github.com/Abrarhusamfahim/Abrarhusamfahim/blob/main/code.gif)
+![MERN Stack Developer](https://github.com/MdGulamurRahman/blob/main/code.gif)
 
 Hello, This is Abrar Husam Fahim. I am a MERN stack developer in Bangladesh. I have 1year of experience. I am working as a Freelance Full Stack web developer.
 
